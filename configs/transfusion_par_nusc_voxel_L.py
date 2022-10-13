@@ -266,3 +266,4 @@ load_from = None
 resume_from = None
 workflow = [('train', 1)]
 gpu_ids = range(0, 8)
+model_parallelism = True
